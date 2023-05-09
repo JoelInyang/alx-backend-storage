@@ -1,0 +1,2 @@
+// find all document in  school databases
+db.school.find()
